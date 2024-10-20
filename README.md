@@ -1,4 +1,4 @@
-# SpamWa
+# R16 WHATS SPAM
 ```
 $ pkg install python
 $ pkg install git
